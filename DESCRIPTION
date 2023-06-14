@@ -5,7 +5,7 @@ Version: 2.5.0-23.06.14
 Author: Alaine Gulles, Justine Bonifacio
 Maintainer: Alaine Gulles <a.gulles@irri.org>, Justine Bonifacio <j.bonifacio@irri.org>
 Description: Randomization commonly used in Plant Breeding Trial. 
-Depends: R (>= 4.0.3), dplyr, crayon
+Depends: R (>= 4.0.3), dplyr, crayon, DiGGer
 License: GPL (>= 2)
 Encoding: UTF-8
 LazyData: true
